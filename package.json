@@ -27,5 +27,7 @@
     "@storybook/html": "^6.3.7",
     "babel-loader": "^8.2.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@storybook/addon-storysource": "^6.3.7"
+  }
 }
